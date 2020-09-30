@@ -1,0 +1,527 @@
+@media (min-width:991.5px) and (max-width:1199.5px){
+    .contact-info i, .contact-info span {
+        line-height: 20px;
+        margin-right: 5px;
+    }
+    .home-content h1 {
+        font-size: 65px;
+    }
+    .home-content p {
+        font-size: 18px;
+    }
+    .info-element p {
+        color: #73879c;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .service-content p {
+        font-size: 15px;
+    }
+    .sec-pad-bottom {
+        padding-bottom: 110px;
+    }
+    .sec-pad-top {
+        padding-top: 120px;
+    }
+    .sub-form {
+        width: 225px;
+    }
+    .sub-form .home-btn {
+        width: 78px;
+        font-size: 10px;
+    }
+    input[type="email"] {
+        width: 136px;
+    }
+    ::placeholder{
+        font-size: 13px;
+    }
+    footer .footer {
+        padding-bottom: 65px;
+    }
+}
+@media (min-width:767.5px) and (max-width:991.5px){
+    .sec-pad-bottom {
+        padding-bottom: 90px;
+    }
+    .sec-pad-top {
+        padding-top: 95px;
+    }
+    .mb-80 {
+        margin-bottom: 50px;
+    }
+    .main-menu li {
+        font-size: 13px;
+    }
+    .home-content h1 {
+        font-size: 50px;
+    }
+    .home-content p {
+        font-size: 18px;
+    }
+    .home-btn {
+        width: 195px;
+        font-size: 16px;
+    }
+    .info-element h2 {
+        font-size: 38px;
+        margin-bottom: 26px;
+    }
+    .info-element p {
+        font-size: 19px;
+    }
+    .single-service img {
+        width: 25px;
+        height: 25px;
+    }
+    .service-content h2 {
+        font-size: 26px;
+    }
+    .service-content p {
+        font-size: 13px;
+    }
+    .work-content {
+        padding-bottom: 28px;
+    }
+    .work-content img {
+        padding-bottom: 15px;
+    }
+    .work-content h4 {
+        font-size: 16px;
+        margin-bottom: 6px;
+    }
+    .info-element p {
+        font-size: 17px;
+    }
+    .info-element .home-btn {
+        width: 130px;
+        font-size: 15px;
+    }
+    footer p {
+        color: #a3b1bf;
+        font-size: 11px;
+    }
+    footer h4, footer p, .logo2 {
+        margin-bottom: 13px;
+    }
+    footer a, footer i {
+        font-size: 12px;
+    }
+    .footer-work img {
+        margin-left: 3px;
+        margin-bottom: 3px;
+    }
+    .footer-work {
+        margin-left: -2px;
+    }
+    footer span {
+        font-size: 11px;
+    }
+    .sub-form {
+        width: 172px;
+        height: 33px;
+        position: relative;
+    }
+    input[type="email"] {
+        width: 107px;
+        height: 33px;
+    }
+    ::placeholder {
+        font-size: 10px;
+    }
+    .sub-form .home-btn {
+        width: 54px;
+        height: 24px;
+        font-size: 7px;
+        line-height: 25px;
+        font-weight: 900;
+        bottom: 12%;
+        position: absolute;
+        margin-left: 5px;
+    }
+    .to-top {
+        line-height: 35px;
+        height: 35px;
+        width: 35px;
+    }
+}
+
+
+@media (min-width:575.5px) and (max-width:767.5px){
+    .sec-pad-bottom {
+        padding-bottom: 70px;
+    }
+    .sec-pad-top {
+        padding-top: 75px;
+    }
+    .mb-80 {
+        margin-bottom: 30px;
+    }
+    .home {
+        height: 70vh;
+    }
+    .topbar {
+        line-height: 40px;
+        color: #506a85;
+        font-size: 10px;
+    }
+    header {
+        height: 90px;
+    }
+    nav {
+        height: 24px;
+    }
+    .main-menu li {
+        display: inline-block;
+        margin-right: 20px;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 700;
+        color: #506a85;
+    }
+    .home-content h1 {
+        font-size: 38px;
+    }
+    .home-content p {
+        font-size: 13px;
+        margin-bottom: 55px;
+    }
+    .home-btn {
+        display: inline-block;
+        width: 170px;
+        height: 46px;
+        font-size: 14px;
+        line-height: 46px;
+    }
+    .info-element h2 {
+        color: #506a85;
+        font-size: 35px;
+        margin-bottom: 45px;
+    }
+    .info-element p {
+        color: #73879c;
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .single-service img {
+        width: 26px;
+        height: 26px;
+    }
+    .service-content {
+        margin-left: 8px;
+    }
+    .service .col-33 {
+        padding: 0px 6px;
+    }
+    .service-content h2 {
+        margin-bottom: 15px;;
+    }
+    .service-content p {
+        color: #73879c;
+        font-size: 12px;
+        line-height: 1.3;
+    }
+    .info-element h2 {
+        color: #506a85;
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .info-element p {
+        color: #73879c;
+        font-size: 15px;
+        line-height: 20px;
+    }
+.work-content img {
+    padding-bottom: 15px;
+}
+    .work-content h4 {
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+    .work-content p {
+        font-size: 12px;
+    }
+    .work-content {
+        background: #ffffff;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .carousel span {
+        height: 13px;
+        width: 13px;
+        margin: 0px 2px;
+    }
+    footer h4 {
+        color: #ffffff;
+        font-size: 14px;
+    }
+    footer p {
+        color: #a3b1bf;
+        font-size: 10px;
+    }
+    footer h4, footer p, .logo2 {
+        margin-bottom: 9px;
+    }
+    .footer-work {
+        display: flex;
+        margin-left: -2px;
+    }
+    .footer-work img {
+        margin-left: 2px;
+        margin-bottom: 2px;
+        min-width:0;
+    }
+    footer a, footer i {
+        font-size: 10px;
+    }
+    .contact-info i, .contact-info span {
+        line-height: 0px;
+    }
+    footer span {
+        font-size: 10px;
+    }
+    .sub-form {
+        width: 122px;
+        height: 26px;
+        border-radius: 2px;
+    }
+    input[type="email"] {
+        width: 72px;
+        height: 26px;
+    }
+    ::placeholder {
+        color: #a3b1bf;
+        font-size: 7px;
+    }
+    .sub-form .home-btn {
+        width: 41px;
+        height: 21px;
+        border-radius: 2px;
+        font-size: 7px;
+        line-height: 21px;
+        bottom: 10%;
+        margin-left: 3px;
+    }
+    .bottom-nav {
+        height: 50px;
+    }
+    .bottom-nav span, .bottom-nav p {
+        font-size: 10px;
+        line-height: 50px;
+    }
+    .bottom-nav .bottom-menu ul li {
+        font-size: 10px;
+        line-height: 50px;
+        margin-right: 12px;
+    }
+    .bottom-nav .bottom-menu ul li::before {
+        top: 45%;
+        left: -10px;
+        height: 2px;
+        width: 2px;
+    }
+    .to-top {
+        line-height: 30px;
+        right: 14px;
+        bottom: 10px;
+        height: 30px;
+        width: 30px;
+        font-size: 16px;
+    }
+}
+@media (max-width:575.5px){
+    .col-20,.col-25,.col-33,.col-50,.col-80,.col-100{
+        width: 100%;
+    }
+    .col-50{
+        margin-bottom: 5px;
+    }
+    .sec-pad-bottom {
+        padding-bottom: 50px;
+    }
+    .sec-pad-top {
+        padding-top: 45px;
+    }
+    .mb-80 {
+        margin-bottom: 25px;
+    }
+    .topbar {
+        line-height: unset;
+        height: auto;
+        text-align: center;
+        padding: 12px 0px;
+    }
+    .contact-info span{
+        margin-left: 5px;
+        margin-right: 15px;
+    }
+    .contact-info span:last-child{
+        margin-right: 0px;
+    }
+    .contact-info i, .contact-info span {
+        line-height: unset;
+    }
+    .contact-info {
+        margin-bottom: 10px;
+    }
+    .social {
+        float: none;
+    }
+    header {
+        height: 114px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .search{
+        font-size: 12px;
+    }
+    .main-menu li {
+        margin-right: 7px;
+        font-size: 11px;
+    }
+    .home{
+        height: 500px;
+    }
+    .home-content h1 {
+        font-size: 44px;
+        margin-bottom: 20px;
+    }
+    .home-content p br{
+        display: none;
+    }
+    .home-content p {
+        font-size: 16px;
+        margin-bottom: 45px;
+        padding: 0px 10px;
+    }
+    .home-btn {
+        width: 132px;
+        height: 45px;
+        font-size: 12px;
+        line-height: 45px;
+    }
+    .info-element h2 {
+        color: #506a85;
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+    .info-element h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .info-element p br{
+        display: none;
+    }
+    .info-element p {
+        font-size: 15px;
+        line-height: 20px;
+        padding: 0px 15px 15px 15px;
+    }
+    .single-service img {
+        width: 20px;
+        height: 20px;
+        margin-top: 3px;
+    }
+    .service-content h2 {
+        font-size: 22px;
+        margin-bottom: 12px;
+    }
+    .service-content p {
+        font-size: 14px;
+        line-height: 1.3;
+        margin-bottom: 20px;
+    }
+    .service-content {
+        margin-left: 10px;
+    }
+    .info-element h2 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .work-content {
+        padding-bottom: 20px;
+        box-shadow: 0 2px 2px -2px rgba(0,0,0,0.3);
+    }
+    .work-content img {
+        padding-bottom: 22px;
+    }
+    .work-content h4 {
+        font-size: 15px;
+        margin-bottom: 6px;
+    }
+    .work-content p {
+        font-size: 12px;
+    }
+    .work-small-img img{
+        width: 100%;
+        margin: auto;
+        display: block;
+        margin-bottom: 5px;
+    }
+    .carousel span {
+        height: 12px;
+        width: 12px;
+        background: #506a85;
+        margin: 0px 2px;
+    }
+    footer .footer {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    footer h4, footer p, .logo2 {
+        margin-bottom: 13px;
+        text-align: center;
+    }
+    .logo2{
+        display: block;
+        margin: 13px auto;
+    }
+    footer h4{
+        margin-top: 20px;
+    }
+    .sub-form {
+        display: block;
+        margin: auto;
+    }
+    .bottom-nav span, .bottom-nav p{
+        text-align: center;
+    }
+    .bottom-nav .bottom-menu ul li {
+        margin-right: 5px;
+    }
+    .bottom-nav .bottom-menu ul li::before {
+        height: 2px;
+        width: 2px;
+        left: -6px;
+    }
+    .bottom-menu{
+        text-align: center;
+    }
+    .bottom-nav p{
+        margin-top: 20px;
+        line-height: unset;
+    }
+    .bottom-nav {
+        height: 70px;
+    }
+    .bottom-nav .bottom-menu ul li {
+        font-size: 11px;
+        line-height: 22px;
+    }
+    .to-top {
+        line-height: 23px;
+        right: 6px;
+        bottom: 12px;
+        height: 23px;
+        width: 23px;
+        font-size: 12px;
+    }
+    .more{
+        text-align: center;
+    }
+    .contact-info {
+        text-align: center;
+    }
+}
+/* ---------------------Responsive End------------------------ */
